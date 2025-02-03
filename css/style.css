@@ -1,13 +1,13 @@
 body {
-    background-image: url('https://www.rawpixel.com/image/6233550/image-background-aesthetic-texture'); /* Placeholder image */
+    background-image: url('https://www.rawpixel.com/storage/6233550/image-background-aesthetic-texture.jpg'); /* Correct image URL */
     background-size: cover;
     background-position: center;
     background-color: #f4f4f9; /* Light greyish background */
     font-family: Arial, sans-serif;
-    color: #333; /* Text color */
+    color: #333;
     margin: 0;
     padding: 0;
-    padding-bottom: 60px; /* Add space for the footer */
+    padding-bottom: 60px;
 }
 
 /* Style headers */
