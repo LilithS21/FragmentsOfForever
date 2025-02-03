@@ -1,10 +1,9 @@
-/* Combined background rules for body */
 body {
-    background-image: url('https://www.vecteezy.com/ai-generated-paper-vintage-background.jpg');
+    background-image: url('https://images.unsplash.com/photo-1514771794479-4e49f6746f2b'); /* Placeholder image */
     background-size: cover;
     background-position: center;
     background-color: #f4f4f9; /* Light greyish background */
-    font-family: Arial, sans-serif; /* Change the font */
+    font-family: Arial, sans-serif;
     color: #333; /* Text color */
     margin: 0;
     padding: 0;
