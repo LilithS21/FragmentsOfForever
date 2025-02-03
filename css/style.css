@@ -1,18 +1,14 @@
-
+/* Combined background rules for body */
 body {
-    background-image: url('your-image-url.jpg');
-    background-size: cover; /* Ensures it covers the entire page */
-    background-position: center; /* Centers the image */
-}
-
-
-/* Set background color */
-body {
+    background-image: url('your-image-url.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
     background-color: #f4f4f9; /* Light greyish background */
     font-family: Arial, sans-serif; /* Change the font */
     color: #333; /* Text color */
     margin: 0;
     padding: 0;
+    padding-bottom: 60px; /* Add space for the footer */
 }
 
 /* Style headers */
@@ -32,12 +28,13 @@ h1, h2 {
 
 /* Style links */
 a {
-    color: #e74c3c; /* Red color for links */
-    text-decoration: none; /* Remove underline */
+    color: #ecf0f1; /* Light color for better readability */
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline; /* Underline links on hover */
+    text-decoration: underline;
+    color: #e74c3c; /* Red color for hover */
 }
 
 /* Footer styling */
